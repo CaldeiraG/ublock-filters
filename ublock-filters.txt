@@ -1,0 +1,12 @@
+! Last updated 2022-02-23
+
+! AdBlockHome dark-mode
+192.168.1.110##html:style(filter:hue-rotate(180deg) invert(1))
+192.168.1.110##html:style(background-color: #3e3e42 !important)
+192.168.1.110##container:style(background-color: #3e3e42 !important)
+
+! Block anti-adblock on observador.pt
+observador.pt##.fc-ab-root
+observador.pt##body:style(overflow: auto !important)
+observador.pt###fixed-footer
+
