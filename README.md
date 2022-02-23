@@ -5,5 +5,5 @@ This is my personal repo where I keep all my custom filters with nice to have st
 
 ### Filters applied
 - Adguardhome dark mode
-- Block anti-adblock and block the radio fixed banner
+- Block anti-adblock and block the radio fixed banner on observador.pt
 - more soon™
