@@ -1,4 +1,4 @@
-! Last updated 2022-02-23
+! Last updated 2022-02-24
 
 ! AdBlockHome dark-mode
 192.168.1.110##html:style(filter:hue-rotate(180deg) invert(1))
@@ -10,3 +10,5 @@ observador.pt##.fc-ab-root
 observador.pt##body:style(overflow: auto !important)
 observador.pt###fixed-footer
 
+! Block anti-adblock on maisgasolina.com (needs JS injection AFAIK)
+maisgasolina.com##div:matches-css(padding-bottom:140px)
