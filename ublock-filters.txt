@@ -18,3 +18,5 @@ lisboaparapessoas.pt###elementor-popup-modal-34026
 lisboaparapessoas.pt##.elementor-sticky.elementor-section-height-default.elementor-section-boxed.elementor-element-ee3eace.elementor-element.elementor-top-section.elementor-section
 lisboaparapessoas.pt##.elementor-section-height-default.elementor-section-boxed.elementor-element-fbd6f94.elementor-element.elementor-top-section.elementor-section
 lisboaparapessoas.pt##.button-primary.button
+lisboaparapessoas.pt##[href="https://lisboaparapessoas.pt/subscrever/"]
+lisboaparapessoas.pt##.elementor-widget-button.elementor-widget.elementor-widget__width-auto.elementor-align-center.elementor-element-eb28589.elementor-element
