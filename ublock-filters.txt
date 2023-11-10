@@ -1,4 +1,4 @@
-! Last updated 2022-02-24
+! Last updated 2023-10-11
 
 ! AdBlockHome dark-mode
 192.168.1.110##html:style(filter:hue-rotate(180deg) invert(1))
@@ -12,3 +12,9 @@ observador.pt###fixed-footer
 
 ! Block anti-adblock on maisgasolina.com (needs JS injection AFAIK)
 maisgasolina.com##div:matches-css(padding-bottom:140px)
+
+! Remove popups and subscription related elements on lisboaparapessoas.pt
+lisboaparapessoas.pt###elementor-popup-modal-34026
+lisboaparapessoas.pt##.elementor-sticky.elementor-section-height-default.elementor-section-boxed.elementor-element-ee3eace.elementor-element.elementor-top-section.elementor-section
+lisboaparapessoas.pt##.elementor-section-height-default.elementor-section-boxed.elementor-element-fbd6f94.elementor-element.elementor-top-section.elementor-section
+lisboaparapessoas.pt##.button-primary.button
