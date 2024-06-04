@@ -1,4 +1,4 @@
-! Last updated 2023-10-11
+! Last updated 2024-06-04
 
 ! AdBlockHome dark-mode
 192.168.1.110##html:style(filter:hue-rotate(180deg) invert(1))
@@ -20,3 +20,8 @@ lisboaparapessoas.pt##.elementor-section-height-default.elementor-section-boxed.
 lisboaparapessoas.pt##.button-primary.button
 lisboaparapessoas.pt##[href="https://lisboaparapessoas.pt/subscrever/"]
 lisboaparapessoas.pt##.elementor-widget-button.elementor-widget.elementor-widget__width-auto.elementor-align-center.elementor-element-eb28589.elementor-element
+lisboaparapessoas.pt##.elementor-section-height-default.elementor-section-boxed.elementor-section-content-middle.elementor-element-9bcaddd.elementor-element.elementor-top-section.elementor-section
+lisboaparapessoas.pt##.elementor-background-overlay
+lisboaparapessoas.pt##.elementor-section-height-default.elementor-section-boxed.elementor-element-669cced.elementor-element.elementor-top-section.elementor-section
+lisboaparapessoas.pt##.e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element-f179274.elementor-element
+
